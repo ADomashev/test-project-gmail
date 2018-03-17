@@ -1,0 +1,12 @@
+pages\BasePage.class
+pages\AccountChangeOrExitPage.class
+utils\Locators.class
+pages\MainPage.class
+pages\ChooseAccountPage.class
+pages\PasswordInputPage.class
+pages\ChangeAccountPage.class
+utils\Singleton.class
+pages\WriteMailPage.class
+services\PropertyProvider.class
+utils\waits\Waits.class
+pages\LoginInputPage.class
